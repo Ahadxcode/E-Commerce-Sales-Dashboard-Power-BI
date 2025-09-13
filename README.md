@@ -21,11 +21,9 @@ Monthly Profit Trends – Identified losses in June and seasonal peaks in Jan/De
 ✔ Professional dashboard layout
 
 🔹 Tools & Skills
+    Power BI (Data Modeling, DAX, Visualization)
+    Excel (Data Cleaning)
+    
 
-Power BI (Data Modeling, DAX, Visualization)
-
-Excel (Data Cleaning)
-
-SQL (Querying basics)
 
 
